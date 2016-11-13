@@ -1,3 +1,3 @@
 # net-server
 
-A work in progress of a simple net implementation of a http server.
+A simple TCP client and server made with node's net module.
