@@ -1,11 +1,10 @@
 {
-  "name": "net-server",
+  "name": "net-chat",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
     "start": "babel-node lib/server.js",
-    "client-start": "babel-node lib/client.js",    
     "build": "babel lib/server.js -d lib",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
